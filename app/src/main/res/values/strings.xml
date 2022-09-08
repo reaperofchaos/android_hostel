@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Youth Hostel App</string>
+    <string name="hostel_name">HI Edmonton</string>
+    <string name="hostel_information">Hostel Information</string>
+    <string name="street">10647 81 Ave NW</string>
+    <string name="province">Edmonton, AB</string>
+    <string name="zip">T6E 1Y1, Canada</string>
+    <string name="cost">$35 - $100 a night</string>
+    <string name="cost_label">Cost Range:</string>
+</resources>
